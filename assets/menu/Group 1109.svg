@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="Group_1109" data-name="Group 1109" transform="translate(-34 -402)">
+    <rect id="Rectangle_3057" data-name="Rectangle 3057" width="23" height="23" rx="7" transform="translate(34 402)" fill="#fff"/>
+    <path id="Rectangle_3057_-_Outline" data-name="Rectangle 3057 - Outline" d="M7,1.5A5.506,5.506,0,0,0,1.5,7v9A5.506,5.506,0,0,0,7,21.5h9A5.506,5.506,0,0,0,21.5,16V7A5.506,5.506,0,0,0,16,1.5H7M7,0h9a7,7,0,0,1,7,7v9a7,7,0,0,1-7,7H7a7,7,0,0,1-7-7V7A7,7,0,0,1,7,0Z" transform="translate(34 402)" fill="#ffa07d"/>
+    <path id="bx-transfer-alt" d="M16.143,10.318A.637.637,0,0,0,16,9.624L12.82,6.439l-.9.9,2.1,2.1H6v1.274h9.554a.637.637,0,0,0,.589-.393ZM6.048,12.378a.637.637,0,0,0,.138.694l3.185,3.185.9-.9-2.1-2.1h8.017V11.985H6.637A.636.636,0,0,0,6.048,12.378Z" transform="translate(34.404 402.15)" fill="#ffa07d"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74" height="74" viewBox="0 0 74 74">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.121" x2="0.863" y2="0.908" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9974ef"/>
+      <stop offset="1" stop-color="#3633a8"/>
+    </linearGradient>
+    <filter id="Rectangle_60" x="0" y="0" width="74" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dx="-3" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_19" data-name="Group 19" transform="translate(-339.495 -767.495)">
+    <g id="Group_8" data-name="Group 8" transform="translate(351 772)">
+      <g transform="matrix(1, 0, 0, 1, -11.5, -4.5)" filter="url(#Rectangle_60)">
+        <rect id="Rectangle_60-2" data-name="Rectangle 60" width="56" height="56" rx="28" transform="translate(12 5)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="plus" transform="translate(371.51 792.51)">
+      <path id="Path_48" data-name="Path 48" d="M15.613,7.875a.86.86,0,0,1,.86.86v6.878a.86.86,0,0,1-.86.86H8.735a.86.86,0,1,1,0-1.72h6.018V8.735A.86.86,0,0,1,15.613,7.875Z" transform="translate(-7.875 -7.875)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_49" data-name="Path 49" d="M16.875,17.735a.86.86,0,0,1,.86-.86h6.878a.86.86,0,1,1,0,1.72H18.595v6.018a.86.86,0,1,1-1.72,0Z" transform="translate(-9.997 -9.997)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
